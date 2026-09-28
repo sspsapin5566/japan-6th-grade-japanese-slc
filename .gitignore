@@ -1,0 +1,9 @@
+video.mp4
+audio.mp3
+output/video.mp4
+output/audio.mp3
+*.mp4
+*.mp3
+.DS_Store
+.venv/
+node_modules/
