@@ -7,3 +7,5 @@ output/audio.mp3
 .DS_Store
 .venv/
 node_modules/
+~$*.pptx
+output/~$*.pptx
